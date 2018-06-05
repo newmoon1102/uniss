@@ -1,0 +1,16 @@
+[サーバー情報]
+　サーバー名：kikan2015
+　USER:hpadmin
+　PASS:hp2dks3
+
+[IPアドレス]
+　192.168.1.8
+
+[DB情報]
+　名前：UnissDB001
+　USER：sa
+　PASS：sqlsvsa-uni
+
+[SQL Sever Std 2012]
+　sd@oa-center.co.jp
+　38T5e5Hz
